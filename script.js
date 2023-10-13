@@ -1,0 +1,1 @@
+const meno = "Linda"
